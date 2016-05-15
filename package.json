@@ -4,6 +4,7 @@
   "description": "Jupyter kernel for skale",
   "main": "index.js",
   "scripts": {
+    "postinstall" : "node install.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

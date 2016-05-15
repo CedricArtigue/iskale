@@ -1,0 +1,5 @@
+{
+	"argv":["/usr/local/Cellar/node/4.1.2/bin/node","/Users/cedricartigue/work/ijavascript/lib/skale_kernel.js","{connection_file}"],
+	"display_name":"Skale (Node.js)",
+	"language":"javascript"
+}
