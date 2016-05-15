@@ -1,0 +1,13 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "private": true,
+  "keywords": [
+    "skale"
+  ],
+  "dependencies": {
+    "co": "^4.6.0",
+    "plotly-notebook-js": "^0.1.2",
+    "skale-engine": "^0.5.0"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "iskale",
+  "version": "1.0.0",
+  "description": "Jupyter kernel for skale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CedricArtigue/iSkale.git"
+  },
+  "keywords": [
+    "javascript",
+    "skale",
+    "ipython",
+    "jupyter"
+  ],
+  "author": "Cedric Artigue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CedricArtigue/iSkale/issues"
+  },
+  "homepage": "https://github.com/CedricArtigue/iSkale#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "jmp": "^0.4.0",
+    "node-uuid": "^1.4.7"
+  }
+}
