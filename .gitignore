@@ -1,3 +1,4 @@
 node_modules
 .ipynb_checkpoints/
 kernel.json
+skale-server.log

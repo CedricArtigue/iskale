@@ -6,8 +6,11 @@
     "skale"
   ],
   "dependencies": {
+    "cli-table": "^0.3.1",
     "co": "^4.6.0",
     "plotly-notebook-js": "^0.1.2",
-    "skale-engine": "^0.5.0"
+    "skale-engine": "^0.5.0",
+    "skale-ml": "^0.2.1",
+    "thenify": "^3.2.0"
   }
 }

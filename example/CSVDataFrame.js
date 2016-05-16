@@ -1,7 +1,6 @@
 var util = require('util');
 var thenify = require('thenify');
 var Table = require('cli-table');
-// var plot = require('plotter').plot;
 var Plot = require('plotly-notebook-js');
 
 function DataFrame(dataset, fields) {
